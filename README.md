@@ -91,7 +91,7 @@ OneClick 在mac下确实可用，但是如果能用其他的就用其他的。
 [Quantumult X]: https://apps.apple.com/app/quantumult-x/id1443988620
 [Surge]: https://apps.apple.com/app/surge-4/id1442620678
 [one-click]: https://apps.apple.com/us/app/oneclick-safe-easy-fast/id1545555197
-[macos-black]: https://ghproxy.com/https://raw.githubusercontent.com/Jlz0/tag/main/macos-black.svg
+[macos-black]: https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/macos-black.svg
 ### [The Unarchiver](https://dl.devmate.com/com.macpaw.site.theunarchiver/TheUnarchiver.dmg)
 [![点击跳转至Mac App Store][macos-black]](https://apps.apple.com/app/the-unarchiver/id425424353)
 ##### [xxx.app 已损坏，无法打开，你应该将它移到废纸篓 / 打不开 xxx，因为它来自身份不明的开发者的解决方法](https://support.apple.com/zh-cn/guide/mac-help/mh40620/mac)
@@ -102,37 +102,37 @@ OneClick 在mac下确实可用，但是如果能用其他的就用其他的。
  <!--教程 ｜SS｜v2rayNG｜Clash｜Kitsunebi｜Surfboard｜SSR｜-->
 ### [SS][apk-ss]
 <a href="https://play.google.com/store/apps/details?id=com.github.shadowsocks" target="_black">
-<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/Jlz0/tag/main/google-play.svg" />
+<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
 </a>
 
 ### [v2rayNG][apk-v2rayng]
 <a href="https://play.google.com/store/apps/details?id=com.v2ray.ang" target="_black">
-<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/Jlz0/tag/main/google-play.svg" />
+<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
 </a>
 
 ### [Clash][apk-clash]
 <a href="https://play.google.com/store/apps/details?id=com.github.kr328.clash" target="_black">
-<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/Jlz0/tag/main/google-play.svg" />
+<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
 </a>
 
 ### [Matsuri][apk-Matsuri]
 <a href="https://play.google.com/store/apps/details?id=moe.matsuri.lite" target="_black">
-<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/Jlz0/tag/main/google-play.svg" />
+<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
 </a>
 
 ### [SagerNet][apk-SagerNet]
 <a href="https://play.google.com/store/apps/details?id=io.nekohasekai.sagernet" target="_black">
-<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/Jlz0/tag/main/google-play.svg" />
+<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
 </a>
 
 ### [Kitsunebi][apk-Kitsunebi]
 <a href="https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android" target="_black">
-<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/Jlz0/tag/main/google-play.svg" />
+<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
 </a>
 
 ### [Surfboard][apk-surfboard]
 <a href="https://play.google.com/store/apps/details?id=com.getsurfboard" target="_black">
-<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/Jlz0/tag/main/google-play.svg" />
+<img alt="轻触跳转至Google Play" width="150px" src="https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/google-play.svg" />
 </a>
 
 ### [魔改ss](https://ghproxy.com/https://raw.githubusercontent.com/Jlz0/openit/main/images/Shadowsocks_4.8.5.apk)
@@ -146,7 +146,7 @@ OneClick 在mac下确实可用，但是如果能用其他的就用其他的。
 [apk-Kitsunebi]: https://d.apkpure.com/b/APK/fun.kitsunebi.kitsunebi4android?version=latest
 [apk-surfboard]: https://d.apkpure.com/b/APK/com.getsurfboard?version=latest
 [apk-ssr]: https://ghproxy.com/https://github.com/shadowsocksrr/shadowsocksr-android/releases/download/3.5.3/shadowsocksr-android-3.5.3.apk
-[google-play]: https://gitlab.com/Jlz0/tag/-/raw/main/google-play.svg
+[google-play]: https://gitlab.com/yu-steven/tag/-/raw/main/google-play.svg
 
 ## iOS
 首推Shadowrocket(俗称小火箭)后起之秀，支持众多格式[如图](#shadowrocket支持的协议--返回)简单易用并支持分享节点([教程](https://openit.daycat.space/tutorial/ios-shadowrocket.html)); 
@@ -187,7 +187,7 @@ Loon最为新兴软件，有着Surge美观的界面，但仍处于测试阶段;P
 [ipk-loon]: https://apps.apple.com/app/loon/id1373567447
 [ipk-oc]: https://apps.apple.com/app/oneclick-safe-easy-fast/id1545555197
 [ipk-sl]: https://apps.apple.com/app/shadowlink-shadowsocks-vpn/id1439686518
-[svg-apple]: https://ghproxy.com/https://raw.githubusercontent.com/Jlz0/tag/main/ios-black.svg
+[svg-apple]: https://ghproxy.com/https://raw.githubusercontent.com/yu-steven/tag/main/ios-black.svg
 [教程]: https://limbopro.com/archives/3846.html
 [神机规则]: https://merlinblog.xyz/wiki/quanx.html
 ##### [如何创建美区Apple ID？](https://shadowsockshelp.github.io/Shadowsocks/apple-id.html)
