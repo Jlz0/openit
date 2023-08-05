@@ -1,23 +1,23 @@
-< a rel = "license"  href = "https://creativecommons.org/licenses/by-sa/4.0/deed.zh" < img align = "right" alt = "Creative Commons License" style = " border- width : 0 " src = "https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /> </ a >>    
-# < img align = left src = "https://gitlab.com/yu-steven/openit/-/raw/main/images/logo_mini.PNG" width = 100 height = 100 > Openit      
-< h6 > Powered by < font color = "green" > OpenPCRS </ font > </ h6 >
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh"><img align="right" alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
+# <img align=left src="https://gitlab.com/yu-steven/openit/-/raw/main/images/logo_mini.PNG" width=100 height=100> Openit  
+<h6> Powered by <font color="green">OpenPCRS</font></h6>
 
 
-< div align = "center" >
+<div align="center">
 
- [ ![ name-nodes ] [svg-nodes] ] [git-nodes]
- [ ![ name-checkly ] [svg-checkly] ] [git-checkly]
- [ ![ name-license ] [svg-license] ] [git-license]
- [ ![ name-telegram ] [svg-telegram] ] [telegram]
+ [![name-nodes][svg-nodes]][git-nodes]
+ [![name-checkly][svg-checkly]][git-checkly]
+ [![name-license][svg-license]][git-license]
+ [![name-telegram][svg-telegram]][telegram]
  <!--![刷新一下][svg-counter]-->
 
 <!--此处隔开，不然无法正确编译；这是注释文本，不会显示-->
 
-[git-nodes] :  ./url
-[git-license] :  ./LICENSE
-[git-checkly] :  https://openit.checklyhq.com
-[telegram] :  https://ShareCentre.Pro
-[svg-nodes] :  https://github.com/Jlz0/openit/actions/workflows/Nodes.yaml/badge.svg?branch=main
+ [git-nodes]: ./url
+ [git-license]: ./LICENSE
+ [git-checkly]: https://openit.checklyhq.com
+ [telegram]: https://ShareCentre.Pro
+ [svg-nodes]: https://github.com/Jlz0/openit/actions/workflows/Nodes.yaml/badge.svg?branch=main
  [svg-checkly]: https://api.checklyhq.com/v1/badges/checks/94ecef57-aedb-47e1-94d8-d8247ea02d9f?style=flat&theme=default
  [svg-license]: https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg?style=flat
  [svg-telegram]: https://img.shields.io/badge/Telegram-@ShareCentrePro-blue.svg?style=flat
@@ -65,7 +65,7 @@
 [qv2ray]: https://cdn.jsdelivr.net/Qv2ray/Qv2ray/releases/download/v2.7.0/Qv2ray-v2.7.0-Windows.7z
 [Clash汉化补丁]: https://ghproxy.com/https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.7_CN/app.asar
 ## macOS
-首推Clash，界面美观，**只支持英文**且需要[订阅转换] ( https://sub.tsutsu.one/ )！ClashX和Clash一样的内核，ClashX同样需要[订阅转换] ( https://sub.tsutsu.one/ )但是**支持简体中文**，SS最后一次更新则是2019.11.13；M1芯片还可以使用iPhone/iPad版的Shadowrocket & Quantumult X & Arm版的Clash(Arm)和经过Rosetta 2转译的Clash(intel)
+首推Clash，界面美观，**只支持英文**且需要[订阅转换](https://sub.tsutsu.one/)！ClashX和Clash一样的内核，ClashX同样需要[订阅转换](https://sub.tsutsu.one/)但是**支持简体中文**，SS最后一次更新则是2019.11.13；M1芯片还可以使用iPhone/iPad版的Shadowrocket & Quantumult X & Arm版的Clash(Arm)和经过Rosetta 2转译的Clash(intel)
 OneClick 在mac下确实可用，但是如果能用其他的就用其他的。
 >**.7z文件如何解压？**
 使用系统自带的双击解压 .7z文件或者使用The Unarchiver[^2]进行解压 **(只能解压)**
@@ -262,10 +262,10 @@ Loon最为新兴软件，有着Surge美观的界面，但仍处于测试阶段;P
 
 ## Clash
 ### Win / Mac
-` https://github.com/Fndroid/clash_for_windows_pkg/releases `
-* 2022.11.04 17:25 --- v0.20.7 *
+` https://github.com/Fndroid/clash_for_windows_pkg/releases`
+*2022.11.04 17:25 --- v0.20.7*
 ### Android / TV
-` https://github.com/Kr328/ClashForAndroid/releases `
+` https://github.com/Kr328/ClashForAndroid/releases`
 *2022.11.17 01:12 --- v2.5.12* **最终版**
 ### ClashN for Win
 ` https://github.com/2dust/clashN/releases`
@@ -294,7 +294,7 @@ Dockerfile -> [`utils/clashcheck/Dockerfile`](https://github.com/Jlz0/openit/blo
 
 在运行Docker之前你需要配置节点源
 
-配置节点源-> [ ` utils/clashcheck/config/config.yaml ` ] ( https://github.com/Jlz0/openit/blob/main/utils/clashcheck/config/config.yaml )的[ ` source: ` ] ( https://github.com/Jlz0/openit/blob/main/utils/clashcheck/config/config.yaml#L4 )项（默认openit节点池）
+配置节点源 -> [`utils/clashcheck/config/config.yaml`](https://github.com/Jlz0/openit/blob/main/utils/clashcheck/config/config.yaml) 的 [`source:`](https://github.com/Jlz0/openit/blob/main/utils/clashcheck/config/config.yaml#L4) 项（默认openit节点池）
 
 要使用默认openit节点池在本地构建并运行此docker，只需使用以下命令：
 ```
@@ -302,7 +302,7 @@ git clone https://github.com/Jlz0/openit.git --single-branch --depth=1; \
 docker build -t clashcheck openit/utils/clashcheck; \
 docker run -d --restart=on-failure:3 -p 80:80 clashcheck
 ```
-端口被占用-> ` docker run -d --restart=on-failure:3 -p [宿主机端口]:80 clashcheck `
+端口被占用 -> `docker run -d --restart=on-failure:3 -p [宿主机端口]:80 clashcheck`
 
 正常需要等待1-2分钟浏览器访问`0.0.0.0:[宿主机端口]`查看筛选结果[check.yaml] 可以右键复制链接直接使用（需要保持docker容器运行）
 
@@ -315,11 +315,11 @@ docker run -d --restart=on-failure:3 -p 80:80 clashcheck
 本仓库采用 CC BY-SA 4.0 许可协议
 
 OpenPCRS = PCRS = ProxyPool + ClashCheck + Remove&Rename + Subconverter
-<br>在本系统中，其中收集部分引用[daycat/pyray](https://github.com/daycat/pyray)仓库(主程序[`./utils/pool/main.py`](https://github.com/Jlz0/openit/blob/main/utils/pool/main.py))，测试筛选部分引用[daycat/clashcheck](https://github.com/daycat/clashcheck)仓库(主程序[`./utils/clashcheck/main.py`](https://github.com/Jlz0/openit/blob/main/utils/clashcheck/main.py))，去重重命名部分由Node.js编写(主程序[`./utils/rm/index.js`](https://github.com/Jlz0/openit/blob/main/utils/rm/index.js))，编码转换部分引用[tindy2013/subconverter](https://github.com/tindy2013/subconverter)仓库(主程序[`./utils/subconverter/subconverter`](https://github.com/Jlz0/openit/blob/main/utils/subconverter/subconverter)), 依靠[GitHub action](https://github.com/Jlz0/openit/actions)(配置文件[`./.github/workflows/Nodes.yaml`](https://github.com/Jlz0/openit/blob/main/.github/workflows/Nodes.yaml ) )持续集成持续交付持续部署
-< br >节点源文件[ ➡️ 此处] ( https://github.com/Jlz0/openit/blob/main/url )
+<br>在本系统中，其中收集部分引用[daycat/pyray](https://github.com/daycat/pyray)仓库(主程序[`./utils/pool/main.py`](https://github.com/Jlz0/openit/blob/main/utils/pool/main.py))，测试筛选部分引用[daycat/clashcheck](https://github.com/daycat/clashcheck)仓库(主程序[`./utils/clashcheck/main.py`](https://github.com/Jlz0/openit/blob/main/utils/clashcheck/main.py))，去重重命名部分由Node.js编写(主程序[`./utils/rm/index.js`](https://github.com/Jlz0/openit/blob/main/utils/rm/index.js))，编码转换部分引用[tindy2013/subconverter](https://github.com/tindy2013/subconverter)仓库(主程序[`./utils/subconverter/subconverter`](https://github.com/Jlz0/openit/blob/main/utils/subconverter/subconverter)), 依靠[GitHub action](https://github.com/Jlz0/openit/actions)(配置文件[`./.github/workflows/Nodes.yaml`](https://github.com/Jlz0/openit/blob/main/.github/workflows/Nodes.yaml))持续集成持续交付持续部署
+<br>节点源文件 [➡️ 此处](https://github.com/Jlz0/openit/blob/main/url)
 
-Clash.yaml 使用的路由规则在[ ➡️ 此处] ( https://github.com/Jlz0/openit/blob/main/utils/subconverter/config/rule.ini )
-< br > Quanx.conf 引用神机, [ blackmatrix7/ios_rule_script ] ( https://github.com/blackmatrix7/ios_rule_script )和[ lhie1 ] ( https://github.com/lhie1 )的重写规则, [ KOP -XIAO/QuantumultX ] ( https://github.com/KOP-XIAO/QuantumultX )的js脚本、[ MaxMind ] ( https://www.maxmind.com ) IP数据库, [ Mazeorz/iOS_Rules_Scripts ] ( https:/ /github.com/Mazeorz/iOS_Rules_Scripts )的网易云音乐解锁, [GeQ1an/Rules](https://github.com/GeQ1an/Rules)部分去广告规则和[Koolson/Qure](https://github.com/Koolson/Qure)的图标
+Clash.yaml 使用的路由规则在 [➡️ 此处](https://github.com/Jlz0/openit/blob/main/utils/subconverter/config/rule.ini)
+<br>Quanx.conf 引用神机, [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)和[lhie1](https://github.com/lhie1)的重写规则, [KOP-XIAO/QuantumultX](https://github.com/KOP-XIAO/QuantumultX)的js脚本、[MaxMind](https://www.maxmind.com) IP数据库, [Mazeorz/iOS_Rules_Scripts](https://github.com/Mazeorz/iOS_Rules_Scripts)的网易云音乐解锁, [GeQ1an/Rules](https://github.com/GeQ1an/Rules)部分去广告规则和[Koolson/Qure](https://github.com/Koolson/Qure)的图标
 
 著作权归作者所有，节点归IP所有者所有，规则、js脚本、代码、图标归创作所有者所有
 <br>转载或引用本仓库时请遵守许可协议，商业转载请联系原作者获得授权，非商业转载请注明出处。
@@ -341,4 +341,4 @@ Clash.yaml 使用的路由规则在[ ➡️ 此处] ( https://github.com/Jlz0/op
 <!--![openit](https://count.getloli.com/get/@openit?theme=asoul)-->
 [^1]: https://www.bandisoft.com/bandizip/dl.php?std-all
 [^2]: https://www.theunarchiver.com/
-[^3] :  https://play.google.com/store/apps/
+[^3]: https://play.google.com/store/apps/
