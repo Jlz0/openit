@@ -329,12 +329,12 @@ Clash.yaml 使用的路由规则在 [➡️ 此处](https://github.com/Jlz0/open
 
 # Time in Stars
 <!--替换成自己的仓库和名字就可以用了-->
-[![Stargazers over time](https://starchart.cc/Jlz0/openit.svg)](https://starchart.cc/Jlz0/openit)
+[![Stargazers over time](https://starchart.cc/yu-steven/openit.svg)](https://starchart.cc/yu-steven/openit)
 
 #### *Quantumult X* UI界面  [返回](#ios)
-[![图片，加载不出来就不看吧](https://gitlab.com/Jlz0/openit/-/raw/main/images/quanx.JPG "是不是炒鸡漂亮呀")](https://apps.apple.com/app/quantumult-x/id1443988620)
+[![图片，加载不出来就不看吧](https://gitlab.com/yu-steven/openit/-/raw/main/images/quanx.JPG "是不是炒鸡漂亮呀")](https://apps.apple.com/app/quantumult-x/id1443988620)
 #### *Shadowrocket*支持的协议  [返回](#ios)
-[![图片，没啥，有软件之后就知道了](https://gitlab.com/Jlz0/openit/-/raw/main/images/Shadowrocket.JPG "是不是支持很多呀")](https://apps.apple.com/app/shadowrocket/id932747118)
+[![图片，没啥，有软件之后就知道了](https://gitlab.com/yu-steven/openit/-/raw/main/images/Shadowrocket.JPG "是不是支持很多呀")](https://apps.apple.com/app/shadowrocket/id932747118)
 *Telegram* [*@yusteven*](https://t.me/yusteven)
 <br>"created_at": "2021-12-13T08:41:28Z"
 <!--都看到这儿了，还不给个Star？-->
