@@ -1,23 +1,23 @@
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh"><img align="right" alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
-# <img align=left src="https://gitlab.com/Jlz0/openit/-/raw/main/images/logo_mini.PNG" width=100 height=100> Openit  
-<h6> Powered by <font color="green">OpenPCRS</font></h6>
+< a rel = "license"  href = "https://creativecommons.org/licenses/by-sa/4.0/deed.zh" < img align = "right" alt = "Creative Commons License" style = " border- width : 0 " src = "https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /> </ a >>    
+# < img align = left src = "https://gitlab.com/yu-steven/openit/-/raw/main/images/logo_mini.PNG" width = 100 height = 100 > Openit      
+< h6 > Powered by < font color = "green" > OpenPCRS </ font > </ h6 >
 
 
-<div align="center">
+< div align = "center" >
 
- [![name-nodes][svg-nodes]][git-nodes]
- [![name-checkly][svg-checkly]][git-checkly]
- [![name-license][svg-license]][git-license]
- [![name-telegram][svg-telegram]][telegram]
+ [ ![ name-nodes ] [svg-nodes] ] [git-nodes]
+ [ ![ name-checkly ] [svg-checkly] ] [git-checkly]
+ [ ![ name-license ] [svg-license] ] [git-license]
+ [ ![ name-telegram ] [svg-telegram] ] [telegram]
  <!--![刷新一下][svg-counter]-->
 
 <!--此处隔开，不然无法正确编译；这是注释文本，不会显示-->
 
- [git-nodes]: ./url
- [git-license]: ./LICENSE
- [git-checkly]: https://openit.checklyhq.com
- [telegram]: https://ShareCentre.Pro
- [svg-nodes]: https://github.com/Jlz0/openit/actions/workflows/Nodes.yaml/badge.svg?branch=main
+[git-nodes] :  ./url
+[git-license] :  ./LICENSE
+[git-checkly] :  https://openit.checklyhq.com
+[telegram] :  https://ShareCentre.Pro
+[svg-nodes] :  https://github.com/Jlz0/openit/actions/workflows/Nodes.yaml/badge.svg?branch=main
  [svg-checkly]: https://api.checklyhq.com/v1/badges/checks/94ecef57-aedb-47e1-94d8-d8247ea02d9f?style=flat&theme=default
  [svg-license]: https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg?style=flat
  [svg-telegram]: https://img.shields.io/badge/Telegram-@ShareCentrePro-blue.svg?style=flat
@@ -65,7 +65,7 @@
 [qv2ray]: https://cdn.jsdelivr.net/Qv2ray/Qv2ray/releases/download/v2.7.0/Qv2ray-v2.7.0-Windows.7z
 [Clash汉化补丁]: https://ghproxy.com/https://github.com/ender-zhao/Clash-for-Windows_Chinese/releases/download/CFW-V0.20.7_CN/app.asar
 ## macOS
-首推Clash，界面美观，**只支持英文**且需要[订阅转换](https://sub.tsutsu.one/)！ClashX和Clash一样的内核，ClashX同样需要[订阅转换](https://sub.tsutsu.one/)但是**支持简体中文**，SS最后一次更新则是2019.11.13；M1芯片还可以使用iPhone/iPad版的Shadowrocket & Quantumult X & Arm版的Clash(Arm)和经过Rosetta 2转译的Clash(intel)
+首推Clash，界面美观，**只支持英文**且需要[订阅转换] ( https://sub.tsutsu.one/ )！ClashX和Clash一样的内核，ClashX同样需要[订阅转换] ( https://sub.tsutsu.one/ )但是**支持简体中文**，SS最后一次更新则是2019.11.13；M1芯片还可以使用iPhone/iPad版的Shadowrocket & Quantumult X & Arm版的Clash(Arm)和经过Rosetta 2转译的Clash(intel)
 OneClick 在mac下确实可用，但是如果能用其他的就用其他的。
 >**.7z文件如何解压？**
 使用系统自带的双击解压 .7z文件或者使用The Unarchiver[^2]进行解压 **(只能解压)**
